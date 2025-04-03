@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Soft\SoloAzerothCore\_deps\lua52-src\src\lua.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Soft\SoloAzerothCore_Source\modules\mod-eluna\src\lualib\lua\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C7FD36FD-9EEB-3335-BCEB-7999D7528856}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

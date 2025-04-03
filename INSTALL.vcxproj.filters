@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Soft\SoloAzerothCore\CMakeFiles\f83ee9b2620803ca49e54be001b31854\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{736FB914-90D4-365F-976F-B26C338D0D9D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

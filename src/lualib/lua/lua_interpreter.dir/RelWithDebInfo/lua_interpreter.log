@@ -1,0 +1,3 @@
+﻿  Building Custom Rule D:/Soft/SoloAzerothCore_Source/modules/mod-eluna/src/lualib/lua/CMakeLists.txt
+  lua.c
+  lua_interpreter.vcxproj -> D:\Soft\SoloAzerothCore\modules\mod-eluna\src\lualib\lua\RelWithDebInfo\lua52_interpreter.exe
